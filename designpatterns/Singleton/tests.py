@@ -1,8 +1,10 @@
 # -*- coding: UTF-8 -*- 
 
 import unittest
+
 import pythonic
 from decorator import SingletonObject
+
 
 class SingletonTester(unittest.TestCase):
 
